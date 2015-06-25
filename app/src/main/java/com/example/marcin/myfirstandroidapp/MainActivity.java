@@ -10,8 +10,8 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-    Button button;
-    TextView textView;
+    Button button; // declare a button variable
+    TextView textView; // declare a textView variable
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
