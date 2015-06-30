@@ -2,6 +2,7 @@ package com.example.marcin.myfirstandroidapp;
 
 /**
  * Created by Marcin on 06.06.2015.
+ * Shows OnClickListener Example
  */
 
 import android.view.View;
